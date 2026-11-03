@@ -31,5 +31,3 @@ python -m coverage report -m weather_alert.py
 - `code_coverage_terminal.png` and `code_coverage_terminal.txt` show the line coverage run and report.
 - `branch_coverage_terminal.png` and `branch_coverage_terminal.txt` show the branch coverage run and report.
 - `CodeCoverageTest_weather_alert.py` and `BranchCoverageTest_weather_alert.py` contain the respective test suites.
-
-The PNGs are rendered terminal-style images of the captured command output. The accompanying text files preserve the report output in text form.
